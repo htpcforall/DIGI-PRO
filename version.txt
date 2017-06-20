@@ -1,0 +1,14 @@
+APP_NAME DIGIPRO
+APP_PACKAGE org.xbmc.kodi
+COMPANY_NAME Stream Box USA
+WEBSITE http://streamboxusa.com/
+APP_EMAIL support@streamboxusa.com
+APP_STICKYURL http://paste.streamboxusa.com
+VERSION_MAJOR 16
+VERSION_MINOR 7
+VERSION_TAG 00
+VERSION_CODE 16070000
+ADDON_API 16.7-00
+
+# Notes:
+# Change AC_INIT in configure.ac
